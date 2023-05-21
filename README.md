@@ -2,6 +2,7 @@
 =====================================================
 
 Демонстрация работы приложения: https://drive.google.com/file/d/13pCjz9M1ZsK15eqkVnGmpgvwgvbVYDnm/view?usp=sharing
+
 Презентация: https://drive.google.com/file/d/1Y_GYWPtP8Oa6o3_befJbKXSDz0RnVb7i/view?usp=sharing
 
 В ходе данного исследования было протестировано около 20 различных конфигураций сверточных нейронных сетей для задачи классификации изображений.
